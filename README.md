@@ -7,3 +7,5 @@ eureka是一个微服务管理的一个框架，eureka分为server和client，se
 
 restribbon是一个基于http的一个客户端负载均衡工具。
 他通过RestTemplate 这个类进行发送请求。
+
+目前还在探索中，如有不同见解欢迎分享。谢谢
